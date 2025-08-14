@@ -12,8 +12,8 @@
 
     <ItemGroup>
       <Folder Include="src\Controllers\" />
-      <Folder Include="src\Entities\" />
       <Folder Include="src\Services\" />
+      <Folder Include="tests\Controllers\" />
     </ItemGroup>
 
 </Project>
