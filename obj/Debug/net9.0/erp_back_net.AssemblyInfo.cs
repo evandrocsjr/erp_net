@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("erp_back_net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ee1291c9aba9480b43c2c6fe5760f4de7286209")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df23bfe3a92038fb3958cbad283bbbbb96bacd11")]
 [assembly: System.Reflection.AssemblyProductAttribute("erp_back_net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("erp_back_net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
