@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y4gMKf0jN5s=",
+  "dgSpecHash": "ev/zuZX/X/4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\evand\\Desktop\\pp\\erp_back_net\\erp_back_net\\erp_back_net.csproj",
+  "projectFilePath": "C:\\Users\\evand\\OneDrive\\Desktop\\Projetos\\erp_net\\erp_back_net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
     "C:\\Users\\evand\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

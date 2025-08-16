@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evand\\Desktop\\pp\\erp_back_net\\erp_back_net\\erp_back_net.csproj": {}
+    "C:\\Users\\evand\\OneDrive\\Desktop\\Projetos\\erp_net\\erp_back_net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evand\\Desktop\\pp\\erp_back_net\\erp_back_net\\erp_back_net.csproj": {
+    "C:\\Users\\evand\\OneDrive\\Desktop\\Projetos\\erp_net\\erp_back_net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evand\\Desktop\\pp\\erp_back_net\\erp_back_net\\erp_back_net.csproj",
+        "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Desktop\\Projetos\\erp_net\\erp_back_net.csproj",
         "projectName": "erp_back_net",
-        "projectPath": "C:\\Users\\evand\\Desktop\\pp\\erp_back_net\\erp_back_net\\erp_back_net.csproj",
+        "projectPath": "C:\\Users\\evand\\OneDrive\\Desktop\\Projetos\\erp_net\\erp_back_net.csproj",
         "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evand\\Desktop\\pp\\erp_back_net\\erp_back_net\\obj\\",
+        "outputPath": "C:\\Users\\evand\\OneDrive\\Desktop\\Projetos\\erp_net\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\evand\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\evand\\.dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
