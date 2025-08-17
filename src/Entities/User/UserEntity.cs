@@ -2,5 +2,5 @@
 
 public class UserEntity : BaseEntity
 {
-    public string Name { get; set; }
+    public required string Name { get; set; }
 }
